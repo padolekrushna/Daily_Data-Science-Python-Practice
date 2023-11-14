@@ -1,4 +1,4 @@
-# Data-Science-Python-Practice
+# Daily_Data-Science-Python-Practice
  Krushna Padole Python
 
  
