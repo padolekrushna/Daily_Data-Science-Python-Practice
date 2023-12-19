@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNX0G+SIOLvB25vnc99qaF7",
+      "authorship_tag": "ABX9TyMSsPm400wqfTpToAVFDwYc",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,32 +28,32 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 2,
       "metadata": {
-        "id": "qI7iFr7dlzGs",
-        "outputId": "aef9d97b-c278-4269-a017-dbe91b5d67bc",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "8-uC81IwLiDK",
+        "outputId": "b59ba9c6-a6b6-4f28-f213-29c9256c286a"
       },
       "outputs": [
         {
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "hello woled\n"
+            "hello world\n"
           ]
         }
       ],
       "source": [
-        "print(\"hello woled\")"
+        "print(\"hello world\")"
       ]
     },
     {
       "cell_type": "code",
       "source": [],
       "metadata": {
-        "id": "5SglD9s1l4EV"
+        "id": "8E6qeEVrLmGv"
       },
       "execution_count": null,
       "outputs": []
